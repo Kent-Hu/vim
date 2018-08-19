@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/kent/work/02-uboot/uboot2014.10/arch/arm'
+let g:netrw_dirhist_2='/home/kent/work/02-uboot/uboot2014.10/arch/arm/cpu'
+let g:netrw_dirhist_3='/home/kent/work/02-uboot/uboot2014.10/arch/arm'
+let g:netrw_dirhist_4='/home/kent/work/02-uboot/uboot2014.10/arch/arm/cpu'
+let g:netrw_dirhist_5='/home/kent/work/02-uboot/uboot2014.10/arch/arm/cpu/arm946es'
+let g:netrw_dirhist_6='/home/kent/work/02-uboot/uboot2014.10'

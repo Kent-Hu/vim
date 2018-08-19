@@ -110,5 +110,5 @@ set cursorline
 " 可以在buffer的任何地方使用鼠标（类似office中在工作区双击鼠标定位）
 set mouse=a
 
-
-
+"vim开启颜色配置，这样函数就有颜色了
+colorscheme wombat256mod   
